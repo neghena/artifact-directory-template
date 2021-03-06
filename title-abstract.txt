@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+GPS Based Autonomous Navigation on the 1/5th Scale
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Self-driving vehicles are revolutionizing the automotive industry with companies like Tesla, Toyota, Audi and many more pouring a substantial amount of money into research and development. While many of these self-driving systems use a combination of cameras, lidars, and radars for local perception and navigation, the fundamental global localization system that they use relies upon a GPS. The challenge in building a navigation system around a GPS derives from the inherent issues of the sensor itself. In general, GPS’s tend to suffer from issues of signal interference that lead to infrequent positional updates and lower precision. On the 1/5th car scale, positional inaccuracies are magnified, so it is crucial that we know the location of our vehicle with speed and precision. In this project, we compare the performance of different GPS’s in order to determine what level of performance is best suited at the 1/5th scale. Using the best-suited GPS, we design a navigation system that can mitigate the shortcomings of the GPS and provide both a reliable autonomous vehicle. 
+
