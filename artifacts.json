@@ -1,6 +1,6 @@
 {
     "this-repository": "https://github.com/neghena/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
+    "project-repository": "https://github.com/garrettgibo/DSC-180-Autonomous-Systems.git",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
     "project-website-url": "https://neghena.github.io/GPS_Autonomous_Nav/",
     "project-website-code": "https://github.com/neghena/GPS_Autonomous_Nav.git"
